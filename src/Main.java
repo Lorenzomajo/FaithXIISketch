@@ -105,7 +105,7 @@ public class Main {
 
             //CONTINUA
                 System.out.println();
-                System.out.println("ELLEADE");
+                System.out.println("*****ELLEADE*****");
                 scanner.nextLine();
                 String continua = scanner.nextLine();
                 for(int i = 1; i <= 3; i++){
