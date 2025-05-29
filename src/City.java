@@ -91,10 +91,5 @@ public class City{
             this.cFaith = 0;
         }
     }
-
-    public int getCPower(){return cPower;}
-    public int getCKnowledge(){return cKnowledge;}
-    public int getCLegacy(){return cLegacy;}
-    public int getCFaith(){return cFaith;}
 }
 
